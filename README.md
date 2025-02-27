@@ -6,4 +6,6 @@ It has not been tested on any other IDE. Examples of the Assembly Code that was
 used in testing can be found in the Assembly Code folder. The parser will supply 
 the label, operand, and opcode for each line of code and will identify errors 
 with the format of the Assembly Code. I pursued this project in an attempt to 
-get more familiar with Java and object oriented programming.
+get more familiar with Java and object oriented programming. A full implementation 
+of the SIC System Software was completed in Python and can be found under 
+the SIC_System_Software repository on this profile.
